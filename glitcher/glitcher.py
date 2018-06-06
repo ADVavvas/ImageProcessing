@@ -2,6 +2,9 @@ from PIL import Image, ImageFilter, ImageChops, ImageShow
 import numpy as np
 import random
 
+#Need to change some parameters here and there
+#Make use of direction
+
 #L: left, R: right, B: both
 direction = 'B'
 #displacement in percentage
